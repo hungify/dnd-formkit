@@ -155,7 +155,7 @@ const [parent4, list4] = useDragAndDrop(items4.value, {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr); /* Ensure exactly two columns */
+  grid-template-columns: repeat(2, 1fr);
   gap: 0.5rem;
   padding: 0;
   width: 100%;
